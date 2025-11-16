@@ -1,2 +1,2 @@
 # Target_sales_anlaysis
-link for geolocation : https://drive.google.com/drive/folders/1TGEc66YKbD443nslRi1bWgVd238gJCnb?usp=sharing
+link for dataset : https://drive.google.com/drive/folders/1TGEc66YKbD443nslRi1bWgVd238gJCnb?usp=sharing
